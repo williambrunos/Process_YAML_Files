@@ -1,0 +1,14 @@
+key: value
+
+myList:
+  - item1
+  - item2
+  - item3
+
+myDict:
+  key1: value1
+  key2: value2
+
+multi-line-str: |
+  Lmao is this a multi line string?
+  I think so
