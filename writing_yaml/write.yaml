@@ -1,0 +1,6 @@
+address:
+  city: Boston
+  state: Massachusetts
+  zipcode: '1234'
+age: 20
+name: William
